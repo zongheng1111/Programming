@@ -1,0 +1,14 @@
+C:\Users\marcu\source\repos\prg asg2 marc\prg asg2 marc\obj\Debug\net8.0\prg asg2 marc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\source\repos\prg asg2 marc\prg asg2 marc\obj\Debug\net8.0\prg asg2 marc.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\prg asg2 marc\prg asg2 marc\obj\Debug\net8.0\prg asg2 marc.AssemblyInfo.cs
+C:\Users\marcu\source\repos\prg asg2 marc\prg asg2 marc\obj\Debug\net8.0\prg asg2 marc.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\prg asg2 marc\prg asg2 marc\bin\Debug\net8.0\prg asg2 marc.exe
+C:\Users\marcu\source\repos\prg asg2 marc\prg asg2 marc\bin\Debug\net8.0\prg asg2 marc.deps.json
+C:\Users\marcu\source\repos\prg asg2 marc\prg asg2 marc\bin\Debug\net8.0\prg asg2 marc.runtimeconfig.json
+C:\Users\marcu\source\repos\prg asg2 marc\prg asg2 marc\bin\Debug\net8.0\prg asg2 marc.dll
+C:\Users\marcu\source\repos\prg asg2 marc\prg asg2 marc\bin\Debug\net8.0\prg asg2 marc.pdb
+C:\Users\marcu\source\repos\prg asg2 marc\prg asg2 marc\obj\Debug\net8.0\prg asg2 marc.dll
+C:\Users\marcu\source\repos\prg asg2 marc\prg asg2 marc\obj\Debug\net8.0\refint\prg asg2 marc.dll
+C:\Users\marcu\source\repos\prg asg2 marc\prg asg2 marc\obj\Debug\net8.0\prg asg2 marc.pdb
+C:\Users\marcu\source\repos\prg asg2 marc\prg asg2 marc\obj\Debug\net8.0\prg asg2 marc.genruntimeconfig.cache
+C:\Users\marcu\source\repos\prg asg2 marc\prg asg2 marc\obj\Debug\net8.0\ref\prg asg2 marc.dll
